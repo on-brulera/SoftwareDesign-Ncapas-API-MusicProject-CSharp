@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Musica.WEB.MVC
+build_property.RootNamespace = Musica.WEB.MVC
+build_property.ProjectDir = C:\Users\Usuario\Downloads\Proyectos - Diseño\Proyecto Musica\Musica.Modelos\Musica.WEB.MVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Usuario\Downloads\Proyectos - Diseño\Proyecto Musica\Musica.Modelos\Musica.WEB.MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Albums/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Albums/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Albums/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Albums/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Albums/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Artistas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0YXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Artistas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0YXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Artistas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0YXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Artistas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0YXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Artistas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Cancions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuY2lvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Cancions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuY2lvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Cancions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuY2lvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Cancions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuY2lvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Cancions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuY2lvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Downloads/Proyectos - Diseño/Proyecto Musica/Musica.Modelos/Musica.WEB.MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-00y1ncjlqz
